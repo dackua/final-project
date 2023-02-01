@@ -1,0 +1,129 @@
+body{
+    font-family: 'Raleway', sans-serif;
+    margin: 0px;
+}
+.full-width{
+    width: 100%;
+}
+
+.bg-image{
+    background-image: url(./images/banner.jpg);
+    background-position: top;
+    background-size: cover;
+    border-top: 10px solid #5385c1;
+}
+
+.inner{
+    width: 1280px;
+    height: 500px;
+    margin: 0 auto;
+}
+
+.navigation-wrap{
+    color: white;
+    display: inline;
+    text-align: center;
+}
+.logo{
+   float: left;
+   font-size: 25px;
+   margin-top: 9px;
+   font-weight: bold;
+}
+
+nav{
+    float: right;
+}
+
+.navigation-bar ul li{
+    text-align: center;
+    display: inline;
+    padding: 3px;
+}
+
+.navigation-bar ul li a{
+    text-decoration: none;
+    color: white; 
+}
+.main-text {
+    margin-top: 100px;
+}
+
+.main-text h1{
+    font-size: 50px;
+}
+
+.main-text p{
+    font-size: 20px;
+}
+/* Boksovi so bela pozadina  */
+
+.three-boxes{
+    background-color: white;
+    margin-top: 50px;
+}
+.box1{
+    margin-right: 4%;
+    height: 250px;
+    width: 30%;
+    border-right: 1px solid #9a9a9a;
+    float: left;
+    text-align: left;
+    padding-right: 6px;
+}
+.box1 h1{
+    color:#5385c1;
+    letter-spacing: normal;
+}
+.box1 p{
+    color: #5a5a5a;
+    letter-spacing: normal;
+    font-size: 17px;
+
+}
+.box2{
+    margin-right: 4%;
+    height: 250px;
+    width: 30%;
+    border-right: 1px solid #9a9a9a;
+    float: left;
+    text-align: left;
+    padding-right: 6px;
+    
+}
+.box2 h1{
+    color:#5385c1;
+    letter-spacing: normal;
+}
+.box2 p{
+    color: #5a5a5a;
+    letter-spacing: normal;
+    font-size: 17px;
+
+}
+.box3{
+    height: 250px;
+    width: 30%;
+    float: left;
+    text-align: left;
+    
+}
+.box3 h1{
+    color:#5385c1;
+    letter-spacing: normal;
+}
+.box3 p{
+    color: #5a5a5a;
+    letter-spacing: normal;
+    font-size: 17px;
+
+}
+ button{
+    height: 40px;
+    width: 60px;
+    font-size: 15px;
+    color: white;
+    background-color: #5385c1;
+ }
+
+/* Boksovi so sina pozadina */
